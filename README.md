@@ -13,10 +13,10 @@ The following code is distributed under the [GPLv3](./LICENSE).
 
 Work during PRM (Mobile Programming) practical classes also consisted of series of mobile applications:
 
-* [PRM](https://github.com/itischrisd/TechSummit)
-* [PSM](https://github.com/itischrisd/PJA-Info)
+* [TechSummit](https://github.com/itischrisd/TechSummit)
+* [PJA-Info](https://github.com/itischrisd/PJA-Info)
 * [pjakom](https://github.com/itischrisd/pjakom)
-* [AUG](hthttps://github.com/itischrisd/Pyszne)
+* [Pyszne](hthttps://github.com/itischrisd/Pyszne)
 * [PaintApp](https://github.com/itischrisd/PaintApp)
 * [Kwarantanna](https://github.com/itischrisd/Kwarantanna)
 * [Notes](https://github.com/itischrisd/Notes), also including [server part](https://github.com/itischrisd/Notes-BE)

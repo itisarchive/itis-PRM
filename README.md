@@ -16,7 +16,7 @@ Work during PRM (Mobile Programming) practical classes also consisted of series 
 * [TechSummit](https://github.com/itischrisd/TechSummit)
 * [PJA-Info](https://github.com/itischrisd/PJA-Info)
 * [pjakom](https://github.com/itischrisd/pjakom)
-* [Pyszne](hthttps://github.com/itischrisd/Pyszne)
+* [Pyszne](https://github.com/itischrisd/Pyszne)
 * [PaintApp](https://github.com/itischrisd/PaintApp)
 * [Kwarantanna](https://github.com/itischrisd/Kwarantanna)
 * [Notes](https://github.com/itischrisd/Notes), also including [server part](https://github.com/itischrisd/Notes-BE)
